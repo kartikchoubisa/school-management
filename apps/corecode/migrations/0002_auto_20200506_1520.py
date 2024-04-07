@@ -12,16 +12,16 @@ def default_site_config(apps, schema_editor):
     Config = apps.get_model("corecode", "SiteConfig")
     Config.objects.bulk_create(
         [
-            Config(key="school_name", value="Apollo School"),
-            Config(key="school_slogan", value="A great school"),
-            Config(key="school_address", value="Lagos, Nigeria"),
+            Config(key="School Name", value="Apollo School"),
+            Config(key="School Slogan", value="Inspiring Excellence Every Day"),
+            Config(key="School Address", value="Bangalore"),
         ]
     )
 
     Session = apps.get_model("corecode", "AcademicSession")
     Session.objects.bulk_create(
         [
-            Session(name="2019/2020", current=True),
+            Session(name="2023/2024", current=True),
         ]
     )
 
@@ -29,8 +29,7 @@ def default_site_config(apps, schema_editor):
     Term.objects.bulk_create(
         [
             Term(name="1st Term", current=True),
-            Term(name="2nd Term", current=False),
-            Term(name="3rd Term", current=False),
+            Term(name="2nd Term", current=False)
         ]
     )
 
@@ -45,8 +44,8 @@ def default_site_config(apps, schema_editor):
     StudentClass = apps.get_model("corecode", "StudentClass")
     StudentClass.objects.bulk_create(
         [
-            StudentClass(name="JSS 1"),
-            StudentClass(name="JSS 2"),
+            StudentClass(name="1"),
+            StudentClass(name="2"),
         ]
     )
 

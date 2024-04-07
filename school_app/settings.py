@@ -14,6 +14,7 @@ import os
 from pathlib import Path
 from environs import Env  # new
 import dj_database_url
+import django_heroku
 
 env = Env()  # new
 env.read_env()  # new
@@ -160,6 +161,7 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR, "static"),)
 
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
+django_heroku.settings(locals())
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"  # new
 
 

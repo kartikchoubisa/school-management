@@ -1,0 +1,4 @@
+WARNING 2024-03-06 01:09:19,851 Not Found: /finance/1/detail/highLightTitle.png
+WARNING 2024-03-06 01:09:19,863 "GET /finance/1/detail/highLightTitle.png HTTP/1.1" 404 7721
+WARNING 2024-03-06 01:09:19,900 Not Found: /student/create/highLightTitle.png
+WARNING 2024-03-06 01:09:19,901 "GET /student/create/highLightTitle.png HTTP/1.1" 404 7492

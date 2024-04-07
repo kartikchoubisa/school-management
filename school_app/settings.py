@@ -13,6 +13,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 import os
 from pathlib import Path
 from environs import Env  # new
+import dj_database_url
 
 env = Env()  # new
 env.read_env()  # new
@@ -105,6 +106,9 @@ DATABASES = {
         "PORT": "5432",
     }
 }
+
+db_from_env = dj_database_url.config(conn_max_age=600)
+DATABASES['default'].update(db_from_env)
 		
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators

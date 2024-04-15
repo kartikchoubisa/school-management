@@ -40,7 +40,7 @@ password: admin123
 ```
 
 ## Roadmap
-To build a fully fledged open source school management.
+To build a fully flsdedged open source school management.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

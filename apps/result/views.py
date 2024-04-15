@@ -62,7 +62,7 @@ def create_result(request):
             return render(
                 request,
                 "result/create_result_page2.html",
-                {"students": studentlist, "form": form, "count": len(id_list)},
+                {"f": studentlist, "form": form, "count": len(id_list)},
             )
         else:
             messages.warning(request, "You didnt select any student.")

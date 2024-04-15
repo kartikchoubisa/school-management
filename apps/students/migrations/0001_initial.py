@@ -85,7 +85,7 @@ class Migration(migrations.Migration):
                 ),
             ],
             options={
-                "ordering": ["surname", "firstname", "other_name"],
+                "ordering": ["firstname", "surname"],
             },
         ),
     ]

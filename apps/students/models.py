@@ -37,10 +37,10 @@ class Student(models.Model):
     passport = models.ImageField(blank=True, upload_to="students/passports/")
 
     class Meta:
-        ordering = ["surname", "firstname", "other_name"]
+        ordering = [ "firstname","surname"]
 
     def __str__(self):
-        return f"{self.surname} {self.firstname} {self.other_name} ({self.registration_number})"
+        return f" {self.firstname} {self.surname} ({self.registration_number})"
 
     def get_absolute_url(self):
         return reverse("student-detail", kwargs={"pk": self.pk})

@@ -25,8 +25,18 @@ cd Django-School-Management-System
 ```
 Run
 
-```python
+For dev env:
+* set env variable : DEBUG=true
+```
+pip install -r dev-requirements.txt #install required packages
+```
+
+For prod env:
+```
 pip install -r requirements.txt #install required packages
+```
+
+```
 python manage.py migrate # run first migration
 python manage.py runserver # run the server
 ```

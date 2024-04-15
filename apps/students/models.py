@@ -28,6 +28,7 @@ class Student(models.Model):
     mobile_num_regex = RegexValidator(
         regex="^[0-9]{10,15}$", message="Entered mobile number isn't in a right format!"
     )
+    parent_name = models.CharField(max_length=200)
     parent_mobile_number = models.CharField(
         validators=[mobile_num_regex], max_length=13, blank=True
     )

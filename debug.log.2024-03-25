@@ -1,0 +1,972 @@
+INFO 2024-04-15 18:41:25,420 Watching for file changes with StatReloader
+INFO 2024-04-15 18:41:27,550 "GET / HTTP/1.1" 302 0
+INFO 2024-04-15 18:41:27,565 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-04-15 18:41:27,614 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-04-15 18:41:27,616 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19724
+INFO 2024-04-15 18:41:27,624 "GET /static/dist/css/login-page.css HTTP/1.1" 200 8610
+INFO 2024-04-15 18:41:27,624 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58578
+INFO 2024-04-15 18:41:27,628 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88145
+INFO 2024-04-15 18:41:27,632 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2024-04-15 18:41:27,643 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686707
+INFO 2024-04-15 18:41:27,681 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13632
+INFO 2024-04-15 18:41:27,697 "GET /static/dist/js/demo.js HTTP/1.1" 200 12616
+INFO 2024-04-15 18:41:27,711 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5251
+INFO 2024-04-15 18:41:27,711 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80698
+INFO 2024-04-15 18:41:27,713 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42383
+INFO 2024-04-15 18:41:27,715 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 57530
+INFO 2024-04-15 18:41:28,031 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-04-15 18:41:28,512 Not Found: /favicon.ico
+WARNING 2024-04-15 18:41:28,513 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-04-15 18:41:34,000 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-15 18:41:34,010 "GET / HTTP/1.1" 200 9302
+INFO 2024-04-15 18:41:34,064 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,066 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,068 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,072 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,074 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,076 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,078 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,082 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,084 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,085 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,092 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,101 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25780
+INFO 2024-04-15 18:41:34,108 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042446
+INFO 2024-04-15 18:41:34,178 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:34,210 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-15 18:41:42,242 "GET /student/list HTTP/1.1" 200 9958
+INFO 2024-04-15 18:41:42,282 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,286 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,289 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,290 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,294 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,298 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,301 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,304 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,305 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,306 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,309 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,310 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,319 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,405 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:42,408 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,381 "GET /finance/list/ HTTP/1.1" 200 9937
+INFO 2024-04-15 18:41:47,421 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,426 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,427 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,429 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,432 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,434 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,436 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,437 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,439 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,440 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,442 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,443 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:47,444 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,793 "GET /staff/list/ HTTP/1.1" 200 9699
+INFO 2024-04-15 18:41:48,834 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,836 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,840 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,842 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,844 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,845 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,847 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,850 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,851 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,852 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,854 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,855 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:48,857 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,160 "GET /result/create/ HTTP/1.1" 200 10398
+INFO 2024-04-15 18:41:50,199 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,201 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,204 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,207 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,208 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,210 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,213 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,215 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,216 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,218 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,220 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,228 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:41:50,249 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,333 "GET /student/list HTTP/1.1" 200 9958
+INFO 2024-04-15 18:42:01,382 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,387 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,390 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,392 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,394 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,396 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,397 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,400 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,402 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,404 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,405 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,420 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:01,421 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,209 "GET /student/create/ HTTP/1.1" 200 13624
+INFO 2024-04-15 18:42:04,251 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,253 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,255 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,259 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,260 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,263 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,265 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,267 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,269 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,271 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,272 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,274 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:04,290 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,883 "POST /student/create/ HTTP/1.1" 200 13780
+INFO 2024-04-15 18:42:23,921 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,923 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,926 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,930 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,933 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,935 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,939 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,941 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,942 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,944 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,948 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,951 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:23,969 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,218 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-04-15 18:42:37,240 "GET /student/1/ HTTP/1.1" 200 11367
+INFO 2024-04-15 18:42:37,286 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,286 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,291 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,292 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,293 "GET /static/dist/img/avatar.png HTTP/1.1" 200 8543
+INFO 2024-04-15 18:42:37,295 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,296 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,313 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,314 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,317 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,322 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,324 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,327 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 18:42:37,334 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 19:22:11,140 Watching for file changes with StatReloader
+INFO 2024-04-15 20:14:59,531 Watching for file changes with StatReloader
+INFO 2024-04-15 20:15:01,626 "GET / HTTP/1.1" 200 9305
+INFO 2024-04-15 20:15:01,657 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,659 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,660 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,667 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,668 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,668 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,669 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,671 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,673 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,681 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,684 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,689 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,690 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,803 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:01,803 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,223 "GET /student/list HTTP/1.1" 200 10237
+INFO 2024-04-15 20:15:03,252 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,255 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,256 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,257 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,258 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,259 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,260 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,261 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,262 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,262 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,263 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,264 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,264 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,277 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:15:03,278 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:05,720 Watching for file changes with StatReloader
+INFO 2024-04-15 20:35:09,446 "GET /student/create/ HTTP/1.1" 200 13627
+INFO 2024-04-15 20:35:09,531 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,532 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,534 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,536 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,536 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,537 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,537 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,549 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,549 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,550 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,550 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,551 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,554 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,689 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:35:09,689 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:03,438 Watching for file changes with StatReloader
+INFO 2024-04-15 20:47:08,616 "GET / HTTP/1.1" 200 9305
+INFO 2024-04-15 20:47:08,623 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,624 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,624 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,690 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,691 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,697 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,698 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,699 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,720 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,887 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,896 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,897 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,900 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,900 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:08,902 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,346 "GET /student/list HTTP/1.1" 200 10237
+INFO 2024-04-15 20:47:10,370 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,372 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,373 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,375 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,376 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,376 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,377 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,378 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,378 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,378 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,379 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,380 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,380 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,428 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:10,428 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,622 "GET /student/create/ HTTP/1.1" 200 13907
+INFO 2024-04-15 20:47:12,654 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,655 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,656 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,656 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,657 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,658 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,660 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,660 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,660 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,661 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,662 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,662 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:12,663 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,337 "POST /student/create/ HTTP/1.1" 200 14085
+INFO 2024-04-15 20:47:39,378 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,380 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,380 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,383 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,383 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,384 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,386 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,387 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,389 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,390 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,390 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,391 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:39,391 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,294 "POST /student/create/ HTTP/1.1" 200 14086
+INFO 2024-04-15 20:47:46,335 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,336 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,339 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,340 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,341 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,342 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,344 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,344 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,345 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,346 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,347 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,347 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:46,347 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,270 "POST /student/create/ HTTP/1.1" 302 0
+INFO 2024-04-15 20:47:50,286 "GET /student/2/ HTTP/1.1" 200 11379
+INFO 2024-04-15 20:47:50,319 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,320 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,322 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,322 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,323 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,323 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,324 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,343 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,343 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,344 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,344 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,345 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,345 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:47:50,346 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,373 "GET /student/2/update/ HTTP/1.1" 200 13972
+INFO 2024-04-15 20:48:03,412 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,412 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,412 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,415 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,416 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,416 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,417 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,417 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,419 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,419 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,420 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,420 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:03,421 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:10,646 "GET /student/2/ HTTP/1.1" 200 11233
+INFO 2024-04-15 20:48:22,569 "GET /student/list HTTP/1.1" 200 10516
+INFO 2024-04-15 20:48:22,605 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,607 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,608 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,610 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,611 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,611 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,612 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,612 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,614 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,614 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,614 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,615 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:48:22,615 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,379 "GET /student/list HTTP/1.1" 200 10516
+INFO 2024-04-15 20:50:03,426 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,426 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,427 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,428 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,431 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,431 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,432 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,434 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,438 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,439 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,439 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,441 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,441 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,503 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:03,504 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:07,220 "GET /student/create/ HTTP/1.1" 200 13907
+INFO 2024-04-15 20:50:08,950 "GET /student/2/ HTTP/1.1" 200 11233
+INFO 2024-04-15 20:50:08,981 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,981 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,981 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,982 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,984 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,985 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,985 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,998 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,998 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,998 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:08,999 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:09,000 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:09,000 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:09,001 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:09,007 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:50:09,007 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,525 "GET /student/2/ HTTP/1.1" 200 11446
+INFO 2024-04-15 20:54:20,596 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,596 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,597 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,598 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,602 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,602 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,603 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,611 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,613 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,615 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,620 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,622 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,623 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,624 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,640 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:20,640 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,053 "GET /student/2/update/ HTTP/1.1" 200 13972
+INFO 2024-04-15 20:54:30,087 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,089 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,092 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,092 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,094 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,094 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,095 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,095 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,095 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,095 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,097 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,097 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,098 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,117 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:30,117 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,302 "POST /student/2/update/ HTTP/1.1" 302 0
+INFO 2024-04-15 20:54:33,321 "GET /student/2/ HTTP/1.1" 200 11589
+INFO 2024-04-15 20:54:33,361 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,361 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,361 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,361 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,365 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,365 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,372 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,373 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,374 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,374 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,374 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,375 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,375 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:33,375 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,576 "GET /student/2/ HTTP/1.1" 200 11452
+INFO 2024-04-15 20:54:44,627 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,627 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,630 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,630 "GET /static/dist/img/avatar.png HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,631 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,631 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,631 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,645 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,645 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,645 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,645 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,646 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,646 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:44,650 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:55,992 "GET /student/list HTTP/1.1" 200 10516
+INFO 2024-04-15 20:54:56,018 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,019 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,021 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,024 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,025 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,026 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,027 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,027 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,028 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,028 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,029 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,029 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:54:56,029 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,087 "GET /finance/list/ HTTP/1.1" 200 9940
+INFO 2024-04-15 20:55:02,128 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,129 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,131 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,134 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,135 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,135 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,135 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,135 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,138 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,139 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,139 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,140 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:02,140 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,209 "GET /finance/create/ HTTP/1.1" 200 13483
+INFO 2024-04-15 20:55:05,247 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,247 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,248 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,248 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,249 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,249 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,251 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,253 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,253 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,253 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,254 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,255 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:55:05,255 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:56:57,402 /Users/kartikchoubisa/projects/school-management/apps/students/models.py changed, reloading.
+INFO 2024-04-15 20:56:57,761 Watching for file changes with StatReloader
+INFO 2024-04-15 20:57:01,932 /Users/kartikchoubisa/projects/school-management/apps/result/views.py changed, reloading.
+INFO 2024-04-15 20:57:02,131 Watching for file changes with StatReloader
+INFO 2024-04-15 20:57:06,286 /Users/kartikchoubisa/projects/school-management/apps/students/models.py changed, reloading.
+INFO 2024-04-15 20:57:06,458 Watching for file changes with StatReloader
+INFO 2024-04-15 20:59:24,732 "GET /finance/list/ HTTP/1.1" 200 9941
+INFO 2024-04-15 20:59:24,795 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,796 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,801 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,805 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,805 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,809 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,810 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,811 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,811 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,814 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,815 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,817 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:24,818 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,213 "GET /finance/create/ HTTP/1.1" 200 13478
+INFO 2024-04-15 20:59:27,245 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,245 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,246 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,246 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,253 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,254 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,255 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,255 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,256 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,256 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,256 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,257 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:27,257 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:35,988 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2024-04-15 20:59:35,996 "GET /finance/list HTTP/1.1" 301 0
+INFO 2024-04-15 20:59:36,015 "GET /finance/list/ HTTP/1.1" 200 10350
+INFO 2024-04-15 20:59:36,056 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,061 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,061 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,063 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,065 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,066 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,067 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,068 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,068 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,068 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,069 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,069 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:36,070 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,185 "GET /finance/1/detail/ HTTP/1.1" 200 10976
+INFO 2024-04-15 20:59:38,218 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,218 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,218 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,219 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,219 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,219 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,227 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,228 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,228 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,228 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,229 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,229 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 20:59:38,230 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,652 "GET /finance/1/detail/ HTTP/1.1" 200 10993
+INFO 2024-04-15 21:00:03,702 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,704 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,705 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,706 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,707 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,711 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,711 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,718 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,719 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,720 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,720 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,720 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:00:03,720 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,365 "GET /finance/1/detail/ HTTP/1.1" 200 10994
+INFO 2024-04-15 21:01:00,429 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,429 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,429 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,431 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,431 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,435 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,436 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,437 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,439 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,439 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,439 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,439 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:01:00,440 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,661 "GET /finance/list/ HTTP/1.1" 200 10350
+INFO 2024-04-15 21:03:20,720 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,721 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,722 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,726 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,728 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,728 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,728 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,730 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,735 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,735 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,737 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,737 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:20,738 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,863 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10843
+INFO 2024-04-15 21:03:22,897 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,905 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,906 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,906 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,906 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,906 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,906 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,912 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,912 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,912 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,912 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,912 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:22,913 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,863 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10843
+INFO 2024-04-15 21:03:31,887 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,887 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,889 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,894 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,894 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,895 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,896 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,897 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,897 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,897 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,898 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,899 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:31,899 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,259 "GET /finance/1/detail/ HTTP/1.1" 200 10995
+INFO 2024-04-15 21:03:36,290 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,292 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,293 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,293 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,293 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,298 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,298 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,298 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,298 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,301 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,301 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,301 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:36,301 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,733 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10843
+INFO 2024-04-15 21:03:59,763 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,764 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,765 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,766 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,767 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,769 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,770 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,770 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,771 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,771 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,772 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,772 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:03:59,773 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:05:34,549 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:05:34,917 Watching for file changes with StatReloader
+INFO 2024-04-15 21:06:00,545 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:06:00,871 Watching for file changes with StatReloader
+INFO 2024-04-15 21:06:02,022 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:06:02,204 Watching for file changes with StatReloader
+INFO 2024-04-15 21:06:03,351 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:06:03,555 Watching for file changes with StatReloader
+INFO 2024-04-15 21:06:07,743 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:06:07,934 Watching for file changes with StatReloader
+INFO 2024-04-15 21:10:39,580 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:10:39,954 Watching for file changes with StatReloader
+INFO 2024-04-15 21:11:53,739 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:11:54,117 Watching for file changes with StatReloader
+INFO 2024-04-15 21:12:15,632 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:12:16,029 Watching for file changes with StatReloader
+INFO 2024-04-15 21:12:21,244 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:12:21,465 Watching for file changes with StatReloader
+INFO 2024-04-15 21:12:24,630 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:12:24,828 Watching for file changes with StatReloader
+INFO 2024-04-15 21:12:29,027 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:12:29,232 Watching for file changes with StatReloader
+INFO 2024-04-15 21:12:48,738 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:12:49,036 Watching for file changes with StatReloader
+INFO 2024-04-15 21:12:51,197 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:12:51,381 Watching for file changes with StatReloader
+INFO 2024-04-15 21:12:59,651 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:12:59,853 Watching for file changes with StatReloader
+INFO 2024-04-15 21:13:02,002 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:13:02,190 Watching for file changes with StatReloader
+INFO 2024-04-15 21:13:04,342 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:13:04,530 Watching for file changes with StatReloader
+INFO 2024-04-15 21:13:07,705 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:13:07,909 Watching for file changes with StatReloader
+ERROR 2024-04-15 21:13:32,102 Internal Server Error: /finance/list/
+Traceback (most recent call last):
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: finance_invoice.payment_method
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/defaulttags.py", line 171, in render
+    len_values = len(values)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: finance_invoice.payment_method
+ERROR 2024-04-15 21:13:32,103 "GET /finance/list/ HTTP/1.1" 500 221359
+ERROR 2024-04-15 21:13:34,935 Internal Server Error: /finance/list/
+Traceback (most recent call last):
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such column: finance_invoice.payment_method
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/template/defaulttags.py", line 171, in render
+    len_values = len(values)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/kartikchoubisa/projects/school-management/env/lib/python3.10/site-packages/django/db/backends/sqlite3/base.py", line 423, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such column: finance_invoice.payment_method
+ERROR 2024-04-15 21:13:34,935 "GET /finance/list/ HTTP/1.1" 500 221496
+INFO 2024-04-15 21:14:11,298 Watching for file changes with StatReloader
+INFO 2024-04-15 21:14:19,878 "GET / HTTP/1.1" 200 9305
+INFO 2024-04-15 21:14:19,890 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,891 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,891 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,956 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,956 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,962 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,963 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,973 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,984 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,984 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:19,985 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:20,089 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:20,089 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:20,163 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:20,167 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,240 "GET /finance/list/ HTTP/1.1" 200 10350
+INFO 2024-04-15 21:14:22,271 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,272 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,272 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,272 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,277 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,278 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,278 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,279 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,279 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,280 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,280 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,280 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,280 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,325 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:22,326 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,221 "GET /finance/receipt/create?invoice=1 HTTP/1.1" 200 10843
+INFO 2024-04-15 21:14:24,257 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,258 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,258 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,258 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,258 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,260 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,263 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,263 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,264 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,264 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,264 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,264 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:24,266 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,267 "GET /finance/list/ HTTP/1.1" 200 10350
+INFO 2024-04-15 21:14:26,296 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,298 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,298 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,301 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,301 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,303 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,303 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,305 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,305 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,306 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,307 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,307 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:26,307 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,353 "GET /finance/1/detail/ HTTP/1.1" 200 10995
+INFO 2024-04-15 21:14:27,385 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,386 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,387 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,387 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,388 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,388 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,388 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,392 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,393 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,393 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,393 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,393 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:27,394 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,417 "GET /finance/list/ HTTP/1.1" 200 10350
+INFO 2024-04-15 21:14:29,443 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,445 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,445 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,445 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,445 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,445 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,453 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,453 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,453 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,453 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,453 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,454 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:29,455 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,569 "GET /finance/create/ HTTP/1.1" 200 13887
+INFO 2024-04-15 21:14:30,605 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,605 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,606 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,607 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,607 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,607 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,611 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,613 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,613 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,613 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,615 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,615 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:14:30,616 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,703 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2024-04-15 21:15:32,722 "GET /finance/list HTTP/1.1" 301 0
+INFO 2024-04-15 21:15:32,741 "GET /finance/list/ HTTP/1.1" 200 10758
+INFO 2024-04-15 21:15:32,795 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,797 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,801 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,802 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,802 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,804 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,804 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,804 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,820 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,822 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,823 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,823 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:32,824 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,195 "GET /finance/1/detail/ HTTP/1.1" 200 10995
+INFO 2024-04-15 21:15:37,234 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,235 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,237 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,238 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,239 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,240 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,241 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,242 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,242 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,243 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,243 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,244 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:37,244 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,437 "GET /finance/2/detail/ HTTP/1.1" 200 11208
+INFO 2024-04-15 21:15:41,473 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,474 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,474 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,475 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,477 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,479 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,479 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,479 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,480 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,480 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,481 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,481 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:41,481 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,022 "GET /finance/receipt/create?invoice=2 HTTP/1.1" 200 10842
+INFO 2024-04-15 21:15:45,059 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,059 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,059 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,060 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,060 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,060 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,064 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,065 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,065 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,066 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,066 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,067 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:15:45,067 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2024-04-15 21:16:07,856 /Users/kartikchoubisa/projects/school-management/apps/finance/models.py changed, reloading.
+INFO 2024-04-15 21:16:08,228 Watching for file changes with StatReloader

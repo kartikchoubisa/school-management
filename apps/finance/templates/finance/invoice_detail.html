@@ -7,11 +7,10 @@
     
     <script>
       function printInvoice() {
-  
-    window.print();
-}
+        window.print();
+      }
+    </script>
 
-      </Script>
     <a href="#" class="btn btn-tool" onclick="printInvoice()">Print</a>
     <a href="{% url 'invoice-update' object.id %}" class="btn btn-tool">
       <i class="fas fa-edit"></i>
@@ -20,9 +19,6 @@
       <i class="fas fa-times"></i>
     </a>
   </div>
-  <h2>
-    Apollo High School
-  </h2>
 
 </div>
 {% endblock content-header %}
@@ -30,6 +26,15 @@
 
 
 {% block content %}
+
+<div class="container">
+  <h1 class="school-name">Apollo English School</h1>
+  <p class="organization"><strong>M.S.V Education Society (R)</strong></p>
+  <p class="recognition">Recognized by the Govt. of Karnataka</p>
+  <p class="address"><strong>Address:</strong> #116/117, Dombarahalli, Lakshmipura Post, B'lore North-1, Bangalore North T & D - 562162</p>
+  <p class="phone"><strong>Phone:</strong> +91 8317445391 / +91 9591192423</p>
+</div>
+<hr class="mb-2"/>
 
 <div class="row">
   <div class="col-sm-4">
@@ -113,5 +118,52 @@
   </tbody>
 </table>
 
+<style>
+  .container {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+
+}
+
+.school-name {
+    color: #333;
+    margin-bottom: 6px;
+}
+
+.organization {
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 0.2em;
+}
+
+.recognition {
+    color: #666;
+    margin-bottom: 1em;
+}
+
+.contact-header {
+    font-size: 1.2em;
+    color: #333;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+.address {
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 0;
+}
+
+.phone {
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 24px;
+}
+
+</style>
+
 
 {% endblock content %}
+
+

@@ -17,8 +17,11 @@ from django.conf import settings
 from django.conf.urls.static import static
 from django.urls import include, path
 
+from .views import HomeView
+
 urlpatterns = [
     path("accounts/", include("django.contrib.auth.urls")),
+    path("", HomeView.as_view(), name="home"),
     path("", include("apps.corecode.urls")),
     path("student/", include("apps.students.urls")),
     path("staff/", include("apps.staffs.urls")),

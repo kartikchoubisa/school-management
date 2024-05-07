@@ -13,6 +13,7 @@
         <th>S/N</th>
         <th>Student Fullname</th>
         <th>Amount Paid</th>
+        <th>Receipt Id</th>
       </tr>
     </thead>
     <tbody>
@@ -21,6 +22,7 @@
           <td>{{ forloop.counter }}</td>
           <td>{{ receipt.invoice.student }}</td>
           <td>{{ receipt.amount_paid|intcomma }}</td>
+          <td>AEHS:{{ receipt.id }}</td>
         </tr>
       {% endfor %}
     </tbody>
